@@ -2,4 +2,4 @@
 
 echo '<h1>Super Projeto!</h1>';
 
-echo 'Este e um porjeto qye scervi tud errao!';
+echo 'Este é projeto que escrevi tudo certo!';
